@@ -19,6 +19,7 @@ namespace SCnotifywithlogging.Client
 
         public SCnotifywithloggingViewItemManager() : base("SCnotifywithloggingViewItemManager")
         {
+          
         }
 
         #region Methods overridden 

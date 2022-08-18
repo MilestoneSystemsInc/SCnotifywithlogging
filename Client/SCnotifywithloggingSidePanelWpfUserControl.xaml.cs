@@ -7,6 +7,7 @@ namespace SCnotifywithlogging.Client
 {
     public partial class SCnotifywithloggingSidePanelWpfUserControl : SidePanelWpfUserControl
     {
+        
         public SCnotifywithloggingSidePanelWpfUserControl()
         {
             InitializeComponent();
@@ -24,9 +25,8 @@ namespace SCnotifywithlogging.Client
             //};
 
             //window.ShowDialog();
-            Notification notification = new Notification();
-        
-            notification.ShowDialog();
+           
+            
             
         }
 

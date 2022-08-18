@@ -94,7 +94,9 @@ namespace SCnotifywithlogging
             if (EnvironmentManager.Instance.EnvironmentType == EnvironmentType.SmartClient)
             {
                 _sidePanelPlugins.Add(new SCnotifywithloggingSidePanelPlugin());
-               
+                Notification notification = new Notification();
+
+                notification.ShowDialog();
             }
             if (EnvironmentManager.Instance.EnvironmentType == EnvironmentType.Administration)
             {
