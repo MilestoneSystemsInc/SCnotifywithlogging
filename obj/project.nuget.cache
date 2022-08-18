@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ligDo9lXrSV2UCJ1lWaLHHNnlbJGNGg2sDI9ef2kgFdquUa7kHAy3v21NwSYomPm1xu1KqK+uiMDFksaV4QFHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\justi\\source\\repos\\SCnotifywithlogging\\SCnotifywithlogging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\justi\\.nuget\\packages\\milestonesystems.videoos.platform\\22.2.0\\milestonesystems.videoos.platform.22.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

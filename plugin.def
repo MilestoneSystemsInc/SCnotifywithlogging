@@ -1,0 +1,4 @@
+<plugin>
+   <file name="SCnotifywithlogging.dll"/>
+	<load env="Client,Administration" />
+</plugin>
